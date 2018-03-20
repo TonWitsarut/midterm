@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1051474990138",
+    "firebase_url": "https://midterm-selected-4ab25.firebaseio.com",
+    "project_id": "midterm-selected-4ab25",
+    "storage_bucket": "midterm-selected-4ab25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051474990138:android:1224a57b97c6d393",
+        "android_client_info": {
+          "package_name": "org.nativescript.s10118"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051474990138-faok8tarv7o0s5hu9m6pginfu8iqtcss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1nlsIKguqfgj4FovQJ_x7cYYLTgKcNg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
